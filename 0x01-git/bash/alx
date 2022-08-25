@@ -2,3 +2,4 @@ echo "The school is open!"
 #!/bin/bash
 echo "ALX"
 test
+ALX School
